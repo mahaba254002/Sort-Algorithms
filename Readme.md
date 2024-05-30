@@ -1,4 +1,4 @@
-# Search Alogrithms
+# Sort Alogrithms
 
 
 ## Table of Contents
@@ -57,9 +57,9 @@
         }
     }
 ```
+### Diagramatic Representation
+   ![Insertion Sort](insertion-sort.png "insertion sort")
 
-
-    ### Diagramatic Representation
 
 | Sorted Sublist       | Unsorted Sublist        | Least Element in Unsorted List |
 |----------------------|-------------------------|--------------------------------|
@@ -70,7 +70,7 @@
 | (11, 12, 22, 25)     | (64)                    | 64                             |
 | (11, 12, 22, 25, 64) | ()                      |                                |
 
-![Selection Sort](Selection-Sort "selection sort")
+
 
 
 ## Insertion Sort
